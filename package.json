@@ -1,0 +1,11 @@
+{
+  "name": "frontend-workflow-4-automatic-javascript-error-checking-with-gulpjs",
+  "version": "1.0.0",
+  "author": "Raymon Schouwenaar",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.1"
+  }
+}
